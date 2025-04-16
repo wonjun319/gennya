@@ -1,0 +1,1 @@
+https://gennya.vercel.app/
